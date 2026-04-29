@@ -1,6 +1,6 @@
-Built:               Tue Apr 28 15:36:09 IST 2026
+Built:               Wed Apr 29 16:31:19 IST 2026
 SDK version (maven): 2.2.8-xota.test
-RN tarball:          airborne-react-native-0.33.0-xota.test.tgz
+RN tarball:          airborne-react-native-0.33.0-xota.test.2.tgz
 iOS zip:             ios/Airborne.xcframework.zip
 Airborne branch:     chore/fork-test-setup
 Airborne commit:     41d1b1c

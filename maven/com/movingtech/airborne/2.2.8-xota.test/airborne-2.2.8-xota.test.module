@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "in.juspay",
+    "group": "com.movingtech",
     "module": "airborne",
     "version": "2.2.8-xota.test",
     "attributes": {
@@ -41,11 +41,11 @@
         {
           "name": "airborne-2.2.8-xota.test.aar",
           "url": "airborne-2.2.8-xota.test.aar",
-          "size": 208254,
-          "sha512": "3cace52f213b4144f1dca2a8a6d9ea7ee99a946072fda818ec35fc3332356151c179d763754aa471768e34ef96a0472ac9b6c9f56b7eab3a637e78993917b96c",
-          "sha256": "88fe6821beade7c135d3f3c48b582e4294aa6ae2734d0d9f806c3adcbedede1f",
-          "sha1": "1eaad2b2ce45d6afae5005548b4f780488d7ac25",
-          "md5": "daa61bf40f71776814f276ca79646f2c"
+          "size": 208506,
+          "sha512": "e9ea34398fed7c6ee87d79d8e8d1b7eb9e8683eaa21013594dbd63583d81815354cd6024f7895ac4371d713383a92e6f220c79961e92bb6a27bb4caad7ca5c19",
+          "sha256": "3ccd4bce318117bd9701cc087fcc70ea55d85b6e9868a23e89bffb26ee5f83b7",
+          "sha1": "67b7003c74c31ca61f33c3bc5565680d4467d03a",
+          "md5": "2963da14ddf0eb5029bd12dd1adcd814"
         }
       ]
     },
@@ -118,11 +118,11 @@
         {
           "name": "airborne-2.2.8-xota.test.aar",
           "url": "airborne-2.2.8-xota.test.aar",
-          "size": 208254,
-          "sha512": "3cace52f213b4144f1dca2a8a6d9ea7ee99a946072fda818ec35fc3332356151c179d763754aa471768e34ef96a0472ac9b6c9f56b7eab3a637e78993917b96c",
-          "sha256": "88fe6821beade7c135d3f3c48b582e4294aa6ae2734d0d9f806c3adcbedede1f",
-          "sha1": "1eaad2b2ce45d6afae5005548b4f780488d7ac25",
-          "md5": "daa61bf40f71776814f276ca79646f2c"
+          "size": 208506,
+          "sha512": "e9ea34398fed7c6ee87d79d8e8d1b7eb9e8683eaa21013594dbd63583d81815354cd6024f7895ac4371d713383a92e6f220c79961e92bb6a27bb4caad7ca5c19",
+          "sha256": "3ccd4bce318117bd9701cc087fcc70ea55d85b6e9868a23e89bffb26ee5f83b7",
+          "sha1": "67b7003c74c31ca61f33c3bc5565680d4467d03a",
+          "md5": "2963da14ddf0eb5029bd12dd1adcd814"
         }
       ]
     },
@@ -140,11 +140,11 @@
         {
           "name": "airborne-2.2.8-xota.test-sources.jar",
           "url": "airborne-2.2.8-xota.test-sources.jar",
-          "size": 120019,
-          "sha512": "6f6dcbcb6b797317c75df643f9c8ddb157e7c00080d98779e467b954f643be32b55a278d8e24aef9b6787d1efaaa109747c638695be52a85ae1c9b41bf6f6a45",
-          "sha256": "3d7f558a6bacb42b265ecf2f319bc4e06ceae870b2753e270bf0c6a809d28ccc",
-          "sha1": "c46378389e5841ac440e43d45952bdc1ff3bfae4",
-          "md5": "ed6d9900602bc7f6af5a83cc201255c9"
+          "size": 120691,
+          "sha512": "a877d5bafd3655ad27db99bde846ee336c2bc4a1a36b97a7cce28bbe42231a5643f463b189d5fed7d0699a333d9614386d29b469ea21d16970cd8f4aaebbca92",
+          "sha256": "f7c322e33a4fd211bb2d48aab37dc4c1c90886e3987b981b23805e03f4a31b6b",
+          "sha1": "8de3af7df992a5bb1dd2bffe03f8efa73194f522",
+          "md5": "68a907d99288866cbb373795957a0727"
         }
       ]
     }
